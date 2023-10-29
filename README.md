@@ -5,4 +5,4 @@ Demo to software repository
 
 1. Create a new repository with the following 
 
-cd
+hello there! what is the name of the repository created yesterday on github.com
